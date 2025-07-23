@@ -5,3 +5,4 @@ whitenoise
 Pillow
 django-crispy-forms
 crispy-bootstrap5
+djangorestframework
