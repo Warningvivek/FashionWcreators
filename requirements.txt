@@ -4,3 +4,4 @@ psycopg2-binary
 whitenoise
 Pillow
 django-crispy-forms
+crispy-bootstrap5
